@@ -1,0 +1,153 @@
+.sydh1{
+	width:1000px;
+	height: 651px;
+	background-image: url(../images/sybg.JPG);
+	margin-top: 100px;
+	float: left;
+	
+}
+.sypage{
+	width:1000px;
+	height: 1000px;
+	background-color: #FFFFFF;
+	
+}
+#sywz1 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 22pt;
+	text-transform: none;
+	color: #000000;
+	height: 250px;
+	width: 500px;
+	line-height: 50px;
+	border: medium none #000000;
+	float: left;
+	margin-top: 200px;
+	text-align: left;
+	margin-left: 90px;
+	font-weight: bold;
+}
+#sywz2 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 22pt;
+	text-transform: none;
+	color: #000000;
+	height: 150px;
+	width: 500px;
+	line-height: 50px;
+	border: medium none #000000;
+	float: left;
+	margin-top: 20px;
+	text-align: left;
+	margin-left: 90px;
+	font-weight: bold;
+}
+.zy1top{
+	width:1000px;
+	height: 129px;
+	background-image: url(../images/zytop.JPG);
+	
+}
+#zy1left {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 22pt;
+	text-transform: none;
+	color: #000000;
+	height: 30px;
+	width: 400px;
+	line-height: 50px;
+	border: medium none #000000;
+	float: left;
+	margin-top: 50px;
+	text-align: left;
+	margin-left: 80px;
+	font-weight: bold;
+}
+#zy1right {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 22pt;
+	text-transform: none;
+	color: #000000;
+	height: 30px;
+	width: 355px;
+	line-height: 50px;
+	border: medium none #000000;
+	float: left;
+	margin-top: 50px;
+	text-align: right;
+	margin-left: 80px;
+	font-weight: bold;
+}
+.rightmaincon {width:1000px;height:688px;overflow:hidden;padding:0;margin:0;border:1px solid #fff;overflow-y:scroll;}
+.rightmaincon p {padding:5px;line-height:2;}
+
+
+.zy1pagemd {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	text-transform: none;
+	color: #000000;
+	height: 670px;
+	width: 410px;
+	line-height: 30px;
+	border: medium none #000000;
+	float: left;
+	margin-top: 10px;
+	text-align: left;
+	margin-left: 70px;
+	font-weight: normal;
+	margin-right: 0px;
+}
+.zy1pagemd1 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	text-transform: none;
+	color: #000000;
+	height: 820px;
+	width: 410px;
+	line-height: 30px;
+	border: medium none #000000;
+	float: left;
+	margin-top: 10px;
+	text-align: left;
+	margin-left: 70px;
+	font-weight: normal;
+	margin-right: 0px;
+}
+.zy1pagemd2 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	text-transform: none;
+	color: #000000;
+	height: 850px;
+	width: 410px;
+	line-height: 30px;
+	border: medium none #000000;
+	float: left;
+	margin-top: 10px;
+	text-align: left;
+	margin-left: 70px;
+	font-weight: normal;
+	margin-right: 0px;
+}
+.zy2top{
+	width:1000px;
+	height: 120px;
+	background-image: url(../images/zy2top.JPG);
+	
+}
+.zy2pagemd{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	text-transform: none;
+	color: #000000;
+	height: 540px;
+	width: 312px;
+	line-height: 30px;
+	border: medium none #000000;
+	float: left;
+	margin-top: 10px;
+	text-align: center;
+	font-weight: normal;
+	margin-left: 10px;
+}
